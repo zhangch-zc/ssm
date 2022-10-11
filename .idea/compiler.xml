@@ -9,11 +9,13 @@
         <module name="springMybatis" />
         <module name="annotationBean" />
         <module name="spring" />
+        <module name="spring_17_aop_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="annotationBean" target="1.5" />
       <module name="spring" target="1.5" />
+      <module name="spring_17_aop_demo" target="1.5" />
       <module name="springMybatis" target="1.5" />
     </bytecodeTargetLevel>
   </component>

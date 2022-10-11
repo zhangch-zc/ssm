@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/spring/pom.xml" />
         <option value="$PROJECT_DIR$/annotationBean/pom.xml" />
         <option value="$PROJECT_DIR$/springMybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_17_aop_demo/pom.xml" />
       </list>
     </option>
   </component>
