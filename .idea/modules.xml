@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/annotationBean/annotationBean.iml" filepath="$PROJECT_DIR$/annotationBean/annotationBean.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/springMybatis/springMybatis.iml" filepath="$PROJECT_DIR$/springMybatis/springMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_01_quickstart/spring_01_quickstart.iml" filepath="$PROJECT_DIR$/spring_01_quickstart/spring_01_quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_17_aop_demo/spring_17_aop_demo.iml" filepath="$PROJECT_DIR$/spring_17_aop_demo/spring_17_aop_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_21_case_interface_run_speed/spring_21_case_interface_run_speed.iml" filepath="$PROJECT_DIR$/spring_21_case_interface_run_speed/spring_21_case_interface_run_speed.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_22_aop_advice_data/spring_22_aop_advice_data.iml" filepath="$PROJECT_DIR$/spring_22_aop_advice_data/spring_22_aop_advice_data.iml" />
