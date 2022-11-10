@@ -1,6 +1,6 @@
 /**
  * Author：zhangch
- * Expression:
+ * Expression: 二分查找
  * 2022/11/8
  */
 public class BinarySearch {
